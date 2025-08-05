@@ -18,3 +18,10 @@ while k<2:
  #for loop   starting condition, ending condition, increment
 for i in range (0,2):
     print("for loop i is", i)
+
+fruits = ["apple", "banana", "cherry"]
+    for fruit in fruits:
+       print (fruit)
+
+for i in range (0,3)
+    print (fruits[0])
