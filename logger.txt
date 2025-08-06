@@ -1,0 +1,3 @@
+Welcome, this is a entry that overwrites the previous one. 
+function:counter time taken 0.00018262863159179688 seconds 
+function:sum time taken 0.00024175643920898438 seconds 
