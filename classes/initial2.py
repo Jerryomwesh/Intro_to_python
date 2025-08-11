@@ -10,7 +10,7 @@ class Student():
         self.age = age
         self.dob = dob
 
-Adam=Student(gender="male")
+Adam=Student(gender="hhgf")
 print("Gender:",Adam.gender)
 
 
